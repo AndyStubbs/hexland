@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="icon" type="image/png" href="hexland.png" />
+	<link rel="stylesheet" type="text/css" href="styles/h-manager.css">
+</head>
+<body>
+	<canvas id="canMap"></canvas>
+	<div id="msg"></div>
+	<div id="intro">
+		Welcome to Hexland, a hex map demo. Click and drag the mouse to scroll. 
+		Use the middle mouse scroll to zoom in and out. Click on a tile to view 
+		details about the tile.
+		<div>
+			<input type='button' value='ok' onclick="document.body.removeChild(document.getElementById('intro'));" />
+		</div>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="js/perlin.js"></script>
+	<script src="js/map-data.js"></script>
+	<script src="js/map-draw.js"></script> 
+	<script src="js/game.js"></script>
+</body>
+</html>
