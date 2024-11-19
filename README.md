@@ -11,12 +11,6 @@ A **HexMap Demo** implemented using **HTML5, Canvas, and Vanilla JavaScript**, f
 ## Requirements
 - A modern web browser (Chrome, Firefox, Edge, etc.).
 
-## Installation
-1. Clone or download the repository:
-   git clone https://github.com/AndyStubbs/hexland.git 
-   cd HexMapDemo
-2. Open the `index.html` file in your browser to start exploring the map.
-
 ## How to Use
 - **Zoom**: Use the mouse wheel to zoom in and out of the map.
 - **Scroll**: Click and drag the map to scroll in any direction.
