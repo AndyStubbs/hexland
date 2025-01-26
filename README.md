@@ -2,6 +2,10 @@
 
 A **HexMap Demo** implemented using **HTML5, Canvas, and Vanilla JavaScript**, featuring procedural map generation, zooming, scrolling, and tile selection. This project showcases a dynamic and interactive hexagonal grid system, perfect for games or simulations.
 
+## View it Online
+You can visit Hexland by visiting the following link:
+[Hexland](https://www.andyswebgames.com/games/hexland/)
+
 ## Features
 - Procedural generation of hexagonal maps.
 - Smooth zooming and scrolling for map exploration.
