@@ -4,7 +4,7 @@ A **HexMap Demo** implemented using **HTML5, Canvas, and Vanilla JavaScript**, f
 
 ## View it Online
 You can visit Hexland by visiting the following link:
-[Hexland](https://www.andyswebgames.com/games/hexland/)
+https://classic.andyswebgames.com/games/hexland/
 
 ## Features
 - Procedural generation of hexagonal maps.
